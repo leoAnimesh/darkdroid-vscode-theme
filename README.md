@@ -1,13 +1,25 @@
 # README
-## This is the README for your extension "darkdroid"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+# Dark Droid
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## VScode theme for night owls (Coders)
+
+### Theme Preview
+
+first release v1
+Recomended font : JetBrains Mono
+Recommended Settings
+
+## put this into your settings.json
+
+    "editor.codeLensFontFamily": "JetBrains Mono",
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.inlayHints.fontFamily": "JetBrains Mono",
+    "debug.console.fontFamily": "JetBrains Mono",
+    "markdown.preview.fontFamily": "JetBrains Mono",
+    "terminal.integrated.fontFamily": "JetBrains Mono",
+    "editor.lineHeight": 30,
+    "editor.formatOnSave": true,
+    "editor.mouseWheelZoom": true,
 
 **Enjoy!**
