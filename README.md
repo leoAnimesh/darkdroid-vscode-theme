@@ -2,13 +2,16 @@
 
 # Dark Droid
 
-## VScode theme for night owls (Coders)
+VScode theme for night owls (Coders)
 
 ### Theme Preview
 
-first release v1
-Recomended font : JetBrains Mono
-Recommended Settings
+![Theme preview](https://github.com/leoAnimesh/darkdroid-vscode-theme/assets/Images/darkdroid_preview.png?raw=true)
+
+first release v1.
+Recomended font : JetBrains Mono.
+
+## Recommended Settings
 
 ## put this into your settings.json
 
