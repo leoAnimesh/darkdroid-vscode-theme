@@ -2,10 +2,31 @@
 	"name": "Dark Droid",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#263238",
-		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"sideBar.background":"#1f2124",
+		"sideBarSectionHeader.background": "#222529",
+		"activityBar.background": "#202020",
+		"editor.background": "#222529",
+		"editor.foreground": "#eeee",
+		//activity bar
+		"activityBarBadge.background": "#ffc600",
+		"activityBarBadge.foreground": "#222831",
+		"sideBarTitle.foreground": "#bbbbbb",
+		"tab.activeBackground": "#222529",
+		"tab.activeBorder": "#ffc600",
+		"tab.inactiveBackground": "#1f2124",
+		//badge
+		"badge.background": "#ffc600",
+		"badge.foreground": "#1f2124",
+		//button
+		"button.background": "#0088ff",
+		"button.foreground": "#fff",
+		"button.hoverBackground": "#ff9d00",
+		//status bar
+		"statusBar.background": "#202020",
+		//panel
+		"panel.background": "#202020",
+		//cursor
+		"editorCursor.background": "#1f2124"
 	},
 	"tokenColors": [
 		{
@@ -16,7 +37,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#546E7A"
+				"foreground": "#646262"
 			}
 		},
 		{
@@ -76,7 +97,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#89DDFF"
+				"foreground": "#7dbaf0",
 			}
 		},
 		{
@@ -239,6 +260,7 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
+				"fontStyle": "italic bold",
 				"foreground": "#C792EA"
 			}
 		},
