@@ -2,15 +2,20 @@
 	"name": "Dark Droid",
 	"type": "dark",
 	"colors": {
+		//sidebar
 		"sideBar.background":"#1f2124",
 		"sideBarSectionHeader.background": "#222529",
-		"activityBar.background": "#202020",
+		"sideBarTitle.foreground": "#bbbbbb",
+		//list
+		"list.activeSelectionBackground":"#222529",
+		//editor
 		"editor.background": "#222529",
 		"editor.foreground": "#eeee",
 		//activity bar
 		"activityBarBadge.background": "#ffc600",
 		"activityBarBadge.foreground": "#222831",
-		"sideBarTitle.foreground": "#bbbbbb",
+		"activityBar.background": "#202020",
+		//tabs
 		"tab.activeBackground": "#222529",
 		"tab.activeBorder": "#ffc600",
 		"tab.inactiveBackground": "#1f2124",
