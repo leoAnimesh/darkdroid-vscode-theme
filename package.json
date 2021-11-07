@@ -1,8 +1,13 @@
 {
     "name": "darkdroid",
-    "displayName": "DarkDroid",
+    "displayName": "Dark Droid",
     "description": "A perfect vscode color theme for night owls",
     "version": "0.0.1",
+    "publisher": "Animesh",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/leoAnimesh/darkdroid-vscode-theme"
+    },
     "engines": {
         "vscode": "^1.62.0"
     },
