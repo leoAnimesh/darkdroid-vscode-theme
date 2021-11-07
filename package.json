@@ -1,0 +1,21 @@
+{
+    "name": "darkdroid",
+    "displayName": "DarkDroid",
+    "description": "A perfect vscode color theme for night owls",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark Droid",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark Droid-color-theme.json"
+            }
+        ]
+    }
+}
