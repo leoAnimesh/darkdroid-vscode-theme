@@ -5,9 +5,11 @@
 VScode theme for night owls (Coders)
 
 ### Theme Preview
+![darkdroid_preview](https://user-images.githubusercontent.com/77456003/140638938-d7bc15d9-f5af-4b21-80e6-907b9326db2f.png)
+
 
 <p>first release v1<br>
-Recomended font : JetBrains Mono.</p>
+Recomended font : JetBrains Mono</p>
 
 ## Recommended Settings
 
