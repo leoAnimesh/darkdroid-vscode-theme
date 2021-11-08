@@ -5,6 +5,7 @@
     "version": "0.3.0",
     "publisher": "Animesh",
     "icon": "assets/Images/logo.png",
+    "license": "MIT",
     "repository": {
         "type": "git",
         "url": "https://github.com/leoAnimesh/darkdroid-vscode-theme"
