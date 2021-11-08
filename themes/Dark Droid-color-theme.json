@@ -4,8 +4,9 @@
 	"colors": {
 		//sidebar
 		"sideBar.background":"#1f2124",
-		"sideBarSectionHeader.background": "#222529",
+		"sideBarSectionHeader.background": "#25272b",
 		"sideBarTitle.foreground": "#bbbbbb",
+		"sideBar.border": "#202020",
 		//list
 		"list.activeSelectionBackground":"#222529",
 		//editor
@@ -31,7 +32,9 @@
 		//panel
 		"panel.background": "#202020",
 		//cursor
-		"editorCursor.background": "#1f2124"
+		"editorCursor.background": "#1f2124",
+		//titlebar
+		"titleBar.activeBackground": "#202020",
 	},
 	"tokenColors": [
 		{
